@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>  Hello World  ! </title>
+	<style>
+	<!-- Styling for all h1 tag -->
+	h1{
+	 color:red
+	}
+	</style>
+  </head>
+  <body>
+      <h1>Krishna Journey started</h1>
+	  <h2>Holla</h2>
+	  <p> Hi, Welcome to krishna web development</p>
+	  <p>I am working on backend Development, having experience of 3 years.<br>
+			i have experence on java, Springboot, AWS, MYSQL, MongoDB.<br>
+	  </p>
+			<hr>
+	  <p>I am working on backend Development, having experience of 3 years.<br>
+			i have experence on java, Springboot, AWS, MYSQL, MongoDB.<br>
+	 </p>
+			<hr>
+	 <p>I am working on backend Development, having experience of 3 years.<br>
+			i have experence on java, Springboot, AWS, MYSQL, MongoDB.<br>
+	 </p>
+			<hr>
+	 <img src="C:\Users\kittu\OneDrive\Pictures\kittu\IMG_0814.jpg">
+  </body>
+</html>
